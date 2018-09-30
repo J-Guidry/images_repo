@@ -6,6 +6,7 @@
 * ![Alt text](web_images/skyline.jpg)
 * ![Alt text](web_images/productivity.png)
 * ![Alt text](web_images/viewer.png)
+* ![Alt text](web_images/recipe-box.png)
 
 Sofa Logo made with 
 [LogoMakr](LogoMakr.com)
