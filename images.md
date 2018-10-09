@@ -12,3 +12,4 @@ Sofa Logo made with
 [LogoMakr](LogoMakr.com)
 
 * ![Alt text](web_images/product_landing.png)
+* ![Alt text](web_images/simon.png)
